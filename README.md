@@ -96,3 +96,27 @@ Users can download analysis results in the following formats:
 PDF Report
 
 JSON File
+
+_**Output**_:
+
+<img width="1919" height="1014" alt="Image" src="https://github.com/user-attachments/assets/8ece7fd3-49ed-48d0-8877-d81febc17da4" />
+
+<img width="1916" height="1021" alt="Image" src="https://github.com/user-attachments/assets/8bebb187-d738-4cb0-9f3f-a587af6b8e43" />
+
+<img width="1919" height="1016" alt="Image" src="https://github.com/user-attachments/assets/67867503-bbe4-40f4-838c-55475d3397bc" />
+
+<img width="1916" height="1019" alt="Image" src="https://github.com/user-attachments/assets/c15228b9-6d5a-4927-a6f7-be7a7ea108ce" />
+
+<img width="1919" height="1023" alt="Image" src="https://github.com/user-attachments/assets/a192cf5e-a2ac-4fae-b57a-c4380da12f61" />
+
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/11318026-6faa-4e38-9114-e1e06429a7b4" />
+
+<img width="1919" height="1029" alt="Image" src="https://github.com/user-attachments/assets/69b865bc-bc78-4cfd-aa55-94c7cb713c98" />
+
+<img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/2e0d9248-5689-4b26-956f-de8d6ceff153" />
+
+<img width="1919" height="1024" alt="Image" src="https://github.com/user-attachments/assets/7ee23bcc-afc2-4f85-b5b5-371de843310f" />
+
+<img width="1919" height="1018" alt="Image" src="https://github.com/user-attachments/assets/55e5d4c7-ea05-4d49-bfdd-f68509b26aa2" />
+
+<img width="1917" height="1019" alt="Image" src="https://github.com/user-attachments/assets/13360ccd-9d32-4cfa-a2d0-65e215f33eb4" />
